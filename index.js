@@ -2,7 +2,7 @@
 
 var gamut = require('music.gamut')
 var harmonizer = require('music.harmonizer')
-var pitchSet = require('music.pitchSet')
+var pitchSet = require('music.pitchset')
 
 /**
  * Build a scale from a source and a tonic. A scale is an array of notes (or
