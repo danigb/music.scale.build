@@ -1,12 +1,13 @@
 # music.scale
 
 [![Build Status](https://travis-ci.org/danigb/music.scale.svg?branch=master)](https://travis-ci.org/danigb/music.scale)
+[![Test Coverage](https://codeclimate.com/github/danigb/music.scale/badges/coverage.svg)](https://codeclimate.com/github/danigb/music.scale/coverage)
 [![Code Climate](https://codeclimate.com/github/danigb/music.scale/badges/gpa.svg)](https://codeclimate.com/github/danigb/music.scale)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 [![npm version](https://img.shields.io/npm/v/music.scale.svg)](https://www.npmjs.com/package/music.scale)
 [![license](https://img.shields.io/npm/l/music.scale.svg)](https://www.npmjs.com/package/music.scale)
 [![distribution file](https://img.shields.io/badge/dist-8.1kb-blue.svg)](https://github.com/danigb/music.scale/blob/master/dist/music.scale.min.js)
-[![music.kit](https://img.shields.io/badge/music-kit-yellow.svg)](https://github.com/danigb/music.kit)
+[![music.kit](https://img.shields.io/badge/music-kit-yellow.svg)](https://www.npmjs.com/package/music.kit)
 
 Music scales made easy:
 
@@ -20,11 +21,11 @@ major('A') // => ['A', 'B', 'C#', 'D', 'E', 'F#', 'G#']
 
 #### Node
 
-__Not released yet. Soon__
+Via npm: `npm i --save music.scale`
 
 #### Browsers
 
-Grab the file from `dist` directory.
+Grab the file from [dist](https://raw.githubusercontent.com/danigb/music.scale/master/dist/music.scale.min.js) folder.
 
 ## Usage
 
