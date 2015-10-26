@@ -1,6 +1,6 @@
 {
   "name": "music.scale",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Music scales made easy",
   "main": "index.js",
   "scripts": {
@@ -32,8 +32,8 @@
     "vows": "^0.8.1"
   },
   "dependencies": {
-    "music.gamut": "0.0.2",
-    "music.harmonizer": "0.0.4",
-    "music.pitchset": "0.0.2"
+    "music.gamut": "0.0.x",
+    "music.harmonizer": "0.0.x",
+    "music.pitchset": "0.0.x"
   }
 }
