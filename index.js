@@ -23,7 +23,7 @@ var pitchSet = require('music.pitchset')
  * @example
  * scale('1 2 3 5 6', 'G') // => ['G', 'A', 'B', 'D', 'E']
  * var dorian = scale('D E F G A B C')
- * dorian('C4')
+ * dorian('C4') // => ['C4', 'D4', 'Eb4', 'F4', 'G4', 'A4', 'Bb4']
  */
 function scale (source, tonic) {
   if (arguments.length === 1) return function (t) { return scale(source, t) }
