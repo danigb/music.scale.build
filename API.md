@@ -55,9 +55,9 @@ one parameter instead of two (see example)</p>
 <dt class="tag-source">Source:</dt>
 <dd class="tag-source"><ul class="dummy">
 <li>
-<a href="https://github.com/danigb/music.scale/blob/master/index.js">index.js</a>
+<a href="https://github.com/danigb/music.scale.build/blob/master/index.js">index.js</a>
 <span>, </span>
-<a href="https://github.com/danigb/music.scale/blob/master/index.js#L7">lineno 7</a>
+<a href="https://github.com/danigb/music.scale.build/blob/master/index.js#L7">lineno 7</a>
 </li>
 </ul></dd>
 </dl>

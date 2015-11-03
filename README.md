@@ -1,18 +1,18 @@
-# music.scale
+# music.scale.build
 
-[![Build Status](https://travis-ci.org/danigb/music.scale.svg?branch=master)](https://travis-ci.org/danigb/music.scale)
-[![Test Coverage](https://codeclimate.com/github/danigb/music.scale/badges/coverage.svg)](https://codeclimate.com/github/danigb/music.scale/coverage)
-[![Code Climate](https://codeclimate.com/github/danigb/music.scale/badges/gpa.svg)](https://codeclimate.com/github/danigb/music.scale)
+[![Build Status](https://travis-ci.org/danigb/music.scale.build.svg?branch=master)](https://travis-ci.org/danigb/music.scale.build)
+[![Test Coverage](https://codeclimate.com/github/danigb/music.scale.build/badges/coverage.svg)](https://codeclimate.com/github/danigb/music.scale.build/coverage)
+[![Code Climate](https://codeclimate.com/github/danigb/music.scale.build/badges/gpa.svg)](https://codeclimate.com/github/danigb/music.scale.build)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![npm version](https://img.shields.io/npm/v/music.scale.svg)](https://www.npmjs.com/package/music.scale)
-[![license](https://img.shields.io/npm/l/music.scale.svg)](https://www.npmjs.com/package/music.scale)
-[![distribution file](https://img.shields.io/badge/dist-8.1kb-blue.svg)](https://github.com/danigb/music.scale/blob/master/dist/music.scale.min.js)
+[![npm version](https://img.shields.io/npm/v/music.scale.build.svg)](https://www.npmjs.com/package/music.scale.build)
+[![license](https://img.shields.io/npm/l/music.scale.build.svg)](https://www.npmjs.com/package/music.scale.build)
+[![distribution file](https://img.shields.io/badge/dist-8.1kb-blue.svg)](https://github.com/danigb/music.scale.build/blob/master/dist/music.scale.build.min.js)
 [![music.kit](https://img.shields.io/badge/music-kit-yellow.svg)](https://www.npmjs.com/package/music.kit)
 
 Music scales made easy:
 
 ```js
-var scale = require('music.scale')
+var scale = require('music.scale.build')
 var major = scale('1 2 3 4 5 6 7')
 major('A') // => ['A', 'B', 'C#', 'D', 'E', 'F#', 'G#']
 ```
@@ -21,11 +21,11 @@ major('A') // => ['A', 'B', 'C#', 'D', 'E', 'F#', 'G#']
 
 #### Node
 
-Via npm: `npm i --save music.scale`
+Via npm: `npm i --save music.scale.build`
 
 #### Browsers
 
-Grab the file from [dist](https://raw.githubusercontent.com/danigb/music.scale/master/dist/music.scale.min.js) folder.
+Grab the file from [dist](https://raw.githubusercontent.com/danigb/music.scale.build/master/dist/music.scale.build.min.js) folder.
 
 ## Usage
 
@@ -69,12 +69,12 @@ dorian(false) // => ['1P', '2M', '3m', '4P', '5P', '6M', '7m']
 
 #### More...
 
-See [music.scales](https://github.com/danigb/music.scales) for scales dictionaries,
+See [music.scale.builds](https://github.com/danigb/music.scale.builds) for scales dictionaries,
 [music.kit](https://github.com/danigb/music.kit) for the complete library
 
 ## Documentation
 
-You can read the [generated API documentation here](https://github.com/danigb/music.scale/blob/master/API.md)
+You can read the [generated API documentation here](https://github.com/danigb/music.scale.build/blob/master/API.md)
 
 ## License
 
